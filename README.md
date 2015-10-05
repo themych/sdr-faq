@@ -1,6 +1,6 @@
 # SDR FAQ
 
-##### Тут мы ловим КВ на свистки без конвертера, дрочим на HackRF и bladeRF, пытаемся настроить DSD, учимся GNUть Radio, принимаем Метеор м2 на вешалку, да и вообще занимаемся всякими непотребствами.
+Тут мы ловим КВ на свистки без конвертера, дрочим на HackRF и bladeRF, пытаемся настроить DSD, учимся GNUть Radio, принимаем Метеор м2 на вешалку, да и вообще занимаемся всякими непотребствами.
  
 #### Какой приёмник покупать?
 Любой на чипсете RTL2832U + R820T2, можешь купить и с R820T, но он вроде чуть хуже.
@@ -64,7 +64,7 @@ Fldigi
 Fldigi! Если чего-то нет в fldigi, то оно есть в MultiPSK, если это не что-то специфическое.
  
 #### Что за хуйню я поймал?
-Тебе нужны [гайд](http://http://www.sigidwiki.com/wiki/Signal_Identification_Guide) и [софт](http://www.rtl-sdr.com/artemis-free-signal-identification-software/)
+Тебе нужны [гайд](http://www.sigidwiki.com/wiki/Signal_Identification_Guide) и [софт](http://www.rtl-sdr.com/artemis-free-signal-identification-software/)
  
 #### А как найти частоту c хуйнёй? А что за хуйня на частоте?
 Смотри радиосканеровскую [базу](http://radioscanner.ru/base)
