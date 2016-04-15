@@ -89,6 +89,11 @@ Fldigi! Если чего-то нет в fldigi, то оно есть в MultiPS
 
 При помощи Raspberry PI (лучше 2, на третьей не опробовано, а на первой будет маловато мощей) можно срать в эфир с дикой кучей гармоник, начиная от 300КГц и заканчивая ~750МГц, лучше делать это без антенны и использовать для опытов с SDR, а не для реальных передач.
 
-Софт: https://github.com/F5OEO/rpitx https://github.com/ha7ilm/qtcsdr
+### Софт:
+[rpitx](https://github.com/F5OEO/rpitx),
+[qtcsdr](https://github.com/ha7ilm/qtcsdr)
+
+Если у вас во время или после передачи через rpitx малинка капитально виснет, может помогать apt-get dist-upgrade (выполнять из под рута)
+
 
 Можно делать штуки вроде https://www.youtube.com/watch?v=UwgJiUhloho
